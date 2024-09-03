@@ -1,0 +1,15 @@
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\bin\Debug\net8.0\CutVariante.exe
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\bin\Debug\net8.0\CutVariante.deps.json
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\bin\Debug\net8.0\CutVariante.runtimeconfig.json
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\bin\Debug\net8.0\CutVariante.dll
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\bin\Debug\net8.0\CutVariante.pdb
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\obj\Debug\net8.0\CutVariante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\obj\Debug\net8.0\CutVariante.AssemblyInfoInputs.cache
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\obj\Debug\net8.0\CutVariante.AssemblyInfo.cs
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\obj\Debug\net8.0\CutVariante.csproj.CoreCompileInputs.cache
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\obj\Debug\net8.0\CutVariante.sourcelink.json
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\obj\Debug\net8.0\CutVariante.dll
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\obj\Debug\net8.0\refint\CutVariante.dll
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\obj\Debug\net8.0\CutVariante.pdb
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\obj\Debug\net8.0\CutVariante.genruntimeconfig.cache
+C:\Users\ORLAND\source\repos\CutVariante\CutVariante\obj\Debug\net8.0\ref\CutVariante.dll
